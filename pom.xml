@@ -14,6 +14,8 @@
         <module>mall4cloud-rbac</module>
         <module>mall4cloud-leaf</module>
         <module>mall4cloud-api</module>
+        <module>mall4cloud-multishop</module>
+        <module>mall4cloud-platform</module>
         <module>mall4cloud-biz</module>
         <module>mall4cloud-product</module>
         <module>mall4cloud-search</module>
